@@ -1,6 +1,6 @@
-# Tic Tac Toe
+## Tic Tac Toe
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
