@@ -1,4 +1,4 @@
-## Tic Tac Toe
+﻿## Tic Tac Toe ✖️⭕
 
 ### Available Scripts
 
@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Demo
 
-<img src="./Gif/TicTacToe.gif" width=300>
+<img src="./Gif/TicTacToe.gif" width=500>
