@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Demo
 
-<img src="./TicTacToe.gif" width=500>
+<img src="TicTacToe.gif" width=500>
